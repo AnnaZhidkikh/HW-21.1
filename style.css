@@ -1,0 +1,15 @@
+p{color: brown;}
+a{color: darkslateblue;
+font-weight: bold;}
+a:hover {color: brown;}
+#a1{color: darkolivegreen;
+font-size: large;
+font-style: italic;
+font-weight: lighter;}
+#a2{color: darkgreen;}
+body{background-color: rgb(219, 238, 242);}
+#p2{color:burlywood;}
+.new{color: chocolate;}
+*{font-size: 30px;}
+*.new{font-size: 50px;}
+.new1{color: coral;}
